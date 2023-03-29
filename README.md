@@ -1,5 +1,10 @@
 # Users API Raf-Raf
 
+
+
+https://user-images.githubusercontent.com/129292580/228558681-19401511-674e-4876-b691-35dff85dec11.mp4
+
+
 La api de usuarios de Raf-Raf es una api que permite la creación de usuarios, la autenticación de usuarios y la recuperación de usuarios.
 desarrollada usando Node.js + PostgreSQL + Redis + TypeORM y JWT Authentication
 
